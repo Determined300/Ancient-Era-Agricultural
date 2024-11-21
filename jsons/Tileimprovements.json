@@ -6,4 +6,4 @@
                 "culture": 1,
                 "turnsToBuild": 3,
                 "techRequired" "Agriculture",
-                "Can only be build
+                "uniques": "Can only be built on [Coastal] tiles",
