@@ -4,8 +4,14 @@
                 "uniqueTo": "Polynesia",
                 "terrainsCanBeBuiltOn": ["Land"],
                 "culture": 1,
-                "turnsToBuild": 3,
+                "turnsToBuild": 6,
                 "techRequired": "Agriculture",
                 "uniques": ["Can only be built on [Coastal] tiles","[+1 Culture] for each adjacent [Moai]","[+1 Gold] <after discovering [Flight]>"]
         },
+        {
+                "name": "Plantation",
+                "turnsToBuild": 6,
+                "techRequired": "Pottery",
+                "uniques": ["[+1 Food] <after discovering [Fertilizer]>","Can only be built to improve a resource","Pillaging this improvement yields approximately [+20 Gold]"]
+        }
 ]
