@@ -43,3 +43,30 @@
 				"row": 9,
 				"prerequisites": ["Agriculture"],
 				"quote": "'The meek shall inherit the Earth, but not its mineral rights.' - J. Paul Getty"
+			}
+		]
+	},
+	{
+		"columnNumber": 2,
+		"era": "Ancient era",
+		"techCost": 0,
+		"buildingCost": 0,
+		"wonderCost": 0,
+		"techs": [
+			{
+				"name": "No further",
+				"row": 6,
+				"perquisites": ["Pottery","Animal Husbandry","Archery","Mining"],
+				"quote": "'No'"
+			}
+		]
+	},
+	{
+		"columnNumber": 3,
+		"era": "Ancient era",
+		"techCost":
+		"buildingCost":
+	        "wonderCost":
+		"techs": [
+	                {
+	    
