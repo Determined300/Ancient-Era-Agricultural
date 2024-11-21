@@ -32,7 +32,7 @@
                 "name": "Road",
                 "terrainsCanBeBuiltOn": ["Land"],
                 "turnsToBuild": 3,
-                "techRequired": "The Wheel",
+                "techRequired": "Trapping",
                 "uniques": ["Can be built outside your borders","Costs [1] [Gold] per turn"],
         }
 ]
