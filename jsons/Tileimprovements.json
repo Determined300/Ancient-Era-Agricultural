@@ -2,4 +2,6 @@
         {
                 "name": "Moai",
                 "uniqueTo": "Polynesia",
-                "terrainCanBeBuiltOn": "Coast
+                "terrainCanBeBuiltOn": "Land"
+                "culture": 2,
+                "turnsToBuild": 3,
