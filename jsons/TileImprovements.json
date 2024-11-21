@@ -2,7 +2,7 @@
         {
                 "name": "Moai",
                 "uniqueTo": "Polynesia",
-                "terrainCanBeBuiltOn": ["Land"],
+                "terrainsCanBeBuiltOn": ["Land"],
                 "culture": 1,
                 "turnsToBuild": 3,
                 "techRequired": "Agriculture",
