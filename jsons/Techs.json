@@ -57,7 +57,7 @@
 				"name": "No further",
 				"row": 6,
 				"perquisites": ["Pottery","Animal Husbandry","Archery","Mining"],
-				"uniques": 
+				"uniques": ["Only available <after discovering [Sailing]>"]
 				"quote": "'No'"
 			}
 		]
@@ -113,6 +113,6 @@
 				"quote": "'Here Hector entered, with a spear eleven cubits long in his hand; the bronze point gleamed in front of him, and was fastened to the shaft of the spear by a ring of gold.' - Homer"
 			}
 		]
-	},
-	{
+	}
+]
 	    
