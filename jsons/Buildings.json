@@ -1,0 +1,11 @@
+[
+        {
+                "name": "Market",
+                "gold": 10,
+                "specialistSlots": {"Merchant": 1},
+                "hurryCostModifier": 25,
+                "percentStatBonus": {"gold": 25},
+                "requiredTech": "Animal Husbandry",
+                "uniques": ["[+1 Gold] from [Land Trade Route (Gold)] tiles [in this city]"],
+        }
+]
